@@ -1,0 +1,11 @@
+.mensajes {
+  margin-top: 14px;
+  padding: 12px;
+  border-radius: 10px;
+  min-height: 1.2em;
+}
+
+.mensajes {
+  background: #fff0f3;
+  border: 1px solid #ffb3c1;
+}
